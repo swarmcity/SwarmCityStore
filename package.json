@@ -1,0 +1,26 @@
+{
+  "name": "swarmcity_store",
+  "version": "1.0.0",
+  "description": "swarmcity_store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarmcity/SwarmCityStore.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swarmcity/SwarmCityStore/issues"
+  },
+  "homepage": "https://github.com/swarmcity/SwarmCityStore#readme",
+  "dependencies": {
+    "gun": "^0.8.3",
+    "express": "^4.15.4",
+    "express-fileupload": "^0.1.4",
+    "ipfs-api": "^14.1.2"
+  }
+}

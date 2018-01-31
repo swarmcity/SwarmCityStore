@@ -2,8 +2,10 @@
 
 [![Build Status](https://travis-ci.org/swarmcity/SwarmCityStore.svg?branch=master)](https://travis-ci.org/swarmcity/SwarmCityStore)
 
-# Swarm City
-### SwarmCityStore
+# Swarm City Store
+
+## Introduction
+The store will be a combination of IPFS and a replicating hash index backed by the blockchain
 
 ## Install dependencies
 
